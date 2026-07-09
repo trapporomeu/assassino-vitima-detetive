@@ -14,8 +14,6 @@ export const metadata: Metadata = {
   description: 'O clássico jogo social de Assassino, Detetive e Vítima. Sorteie papéis secretamente e observe cada piscada de olho!',
   icons: {
     icon: '/icon.jpg',
-    shortcut: '/favicon.jpg',
-    apple: '/icon.jpg',
   },
 };
 
