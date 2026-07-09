@@ -12,9 +12,6 @@ const orbitron = Orbitron({
 export const metadata: Metadata = {
   title: 'Impostor • Jogo de Investigação',
   description: 'O clássico jogo social de Assassino, Detetive e Vítima. Sorteie papéis secretamente e observe cada piscada de olho!',
-  icons: {
-    icon: '/icon.jpg',
-  },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
