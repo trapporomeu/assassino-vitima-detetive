@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Assassino, Detetive e Vítima",
+  "description": "Um jogo festivo clássico de mistério e dedução social para jogar com amigos no mesmo dispositivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
